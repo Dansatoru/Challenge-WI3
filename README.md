@@ -1,4 +1,4 @@
-# UiPath Automation Projects (Summer School 2025)
+# UiPath Automation Projects - UiPath Challenge
 
 Welcome! 👋  
 This repository showcases my automation work completed during the **FILS x UiPath Summer School 2025** — a collaboration between the **Faculty of Engineering in Foreign Languages (FILS)** at **UNST Politehnica Bucharest** and **UiPath**.
