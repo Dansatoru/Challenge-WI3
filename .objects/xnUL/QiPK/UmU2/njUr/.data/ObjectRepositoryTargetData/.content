@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tr9nBjqr-kmUWCsZc__tjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106992455" CVScreenId="b34f5383-214c-40f8-a071-c1009e77320d" CvElementArea="64, 608, 199, 45" CvTextArea="103, 621, 142, 21" CvTextArgument="Update Work Item" CvType="Button" DesignTimeRectangle="66, 611, 195, 42" ElementType="Button" FullSelectorArgument="&lt;webctrl id='buttonUpdate' tag='BUTTON' /&gt;" Guid="3b01ebb7-dacd-4a6f-89d3-f9f1028d3710" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b34f5383-214c-40f8-a071-c1009e77320d" CvElementArea="63, 548, 278, 44" CvType="InputBox" DesignTimeRectangle="66, 550, 275, 42" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='button' class='btn dropdown-toggle btn-default' aaname='Rejected' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Rejected' /&gt;" Guid="ffeb7dff-56c4-4c65-a1d7-2505cc6d8c5f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fec759764ce77e310e8f3e032aa86c6d.png" xmlns="">0KsoSXzdQYUCT6lYwJwa_nA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

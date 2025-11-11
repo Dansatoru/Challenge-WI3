@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Vendor Godmother Cater…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "PfQzBQQalUOtR_JpuM0_XQ",
+  "Reference": "CMCEUwyRdEur3HS62FoHCg/PfQzBQQalUOtR_JpuM0_XQ",
+  "ParentRef": "CMCEUwyRdEur3HS62FoHCg/HanghlPw4E22TXfxaT3zPg",
+  "Created": "2025-08-05T10:08:39.8161756Z",
+  "Updated": "2025-08-05T10:08:39.8161756Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

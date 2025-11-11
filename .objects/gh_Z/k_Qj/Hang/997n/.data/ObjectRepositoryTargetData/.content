@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zLmr87JgvUKaUY-na_ojKg" Reference="CMCEUwyRdEur3HS62FoHCg/997nStUcZ0eQJuVof4C_tQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="075967bd-9b6a-427c-9b16-6f7ef472ee33" CvType="AnyWordGroup" DesignTimeRectangle="549, 271, 330, 28" ElementType="Text" FullSelectorArgument="&lt;wnd aaname='Document Pane' omit:cls='AVL_AVView' omit:title='AVScrolledPageView' /&gt;&lt;wnd omit:cls='AVL_AVView' omit:title='AVPageView' /&gt;" Guid="cb2a07fd-2049-4e4d-82d1-e4786eed70b6" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='Invoice-751067.pdf - Adobe Acrobat Reader (64-bit)' /&gt;" SearchSteps="CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1012a073128462f9e1448d88a950095a.png" xmlns="">07AHidj66U0yNbuXqwJNnlQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

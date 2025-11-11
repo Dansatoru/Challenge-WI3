@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Clevatess Majuu no Ou to Akago to Shik",
+  "Type": "Screen",
+  "Id": "ZFT05BPxU0i_9wwKoa1EQg",
+  "Reference": "CMCEUwyRdEur3HS62FoHCg/ZFT05BPxU0i_9wwKoa1EQg",
+  "ParentRef": "CMCEUwyRdEur3HS62FoHCg/LTknAwgrikKqwpxwkM6u5g",
+  "Created": "2025-08-07T20:59:35.7488447Z",
+  "Updated": "2025-08-07T20:59:35.7488447Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

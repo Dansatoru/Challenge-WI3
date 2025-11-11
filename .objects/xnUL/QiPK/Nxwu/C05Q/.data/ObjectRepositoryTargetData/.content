@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iuD83PLyU0aJh9jcOGRe-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="efaidnbmnnnibpcajpcglclefindmkaj/https://acme-test.uipath.com/testdata/invoices/485/Invoice-751067.pdf" DesignTimeRectangle="144, 45, 481, 28" ElementType="Toolbar" FullSelectorArgument="&lt;wnd ctrlid='1001' title='Address: Downloads' /&gt;" Guid="028bc21c-2725-461a-a581-9f3a34644181" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d7774f2ac53111b74324de2df9393202.png" xmlns="">051JnY0nJV0ehpZD7pUpkOQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

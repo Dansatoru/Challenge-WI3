@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NBXAqNtiB0muA01USFQXOg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106992455" CVScreenId="9d37dad1-36aa-4716-9780-b500ed399f48" CvTextArea="90, 705, 87, 20" CvTextArgument="Completed" CvType="Text" DesignTimeRectangle="67, 699, 273, 32" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Completed' tag='A' /&gt;" Guid="d8401256-b0a8-46b1-8db5-205aa8c4f629" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9d37dad1-36aa-4716-9780-b500ed399f48" CvTextArea="91, 672, 70, 20" CvTextArgument="Rejected" CvType="Text" DesignTimeRectangle="67, 666, 273, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Rejected' tag='A' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Rejected' /&gt;" Guid="c0be927d-cf98-4268-9e26-339eeee5e801" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="538089352d25d1435b0692e8f3fd0fc9.png" xmlns="">0gLM8zG8knkSS6EZHoz1QeA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

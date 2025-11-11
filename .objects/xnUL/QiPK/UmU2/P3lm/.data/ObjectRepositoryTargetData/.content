@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="s1HF2uNf9E29JSKOqrH3Hw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/vendors/add" CVScreenId="57ad2dce-ad4b-402e-a2b0-bb35c62d72df" CvElementArea="333, 534, 609, 46" CvType="InputBox" DesignTimeRectangle="334, 537, 607, 43" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='address' tag='INPUT' type='text' class='form-control' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="ef14d392-57d2-4fdd-9bc0-3ef3a2818df6" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Add Vendor' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="57ad2dce-ad4b-402e-a2b0-bb35c62d72df" CvTextArea="332, 507, 77, 17" CvTextArgument="Address:" CvType="Text" DesignTimeRectangle="334, 506, 76, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Address:' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Address:' /&gt;" Guid="dbc9fcf1-06d9-4c13-b9c3-40bfddb0cfda" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9e9e16910ee0fe558b327f5cf6860add.png" xmlns="">054utVHv7XE2LOIVLveVyNg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

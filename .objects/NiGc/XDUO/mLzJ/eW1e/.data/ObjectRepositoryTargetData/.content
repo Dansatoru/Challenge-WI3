@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1aqfl0LqjEOJs81bguNKWQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="d7804f8a-6b21-4b66-ab3a-53ff95b4fd5a" CvElementArea="65, 136, 1133, 474" CvTextArea="33, 127, 11, 13" CvTextArgument="1" CvType="InputBox" DesignTimeRectangle="11, 124, 1190, 491" ElementType="InputBox" FullSelectorArgument="&lt;wnd cls='Scintilla' title='Notepad++' /&gt;" Guid="02306f1a-5ce9-4901-8331-593ad6d3c874" ScopeSelectorArgument="&lt;wnd app='notepad++.exe' cls='Notepad++' title='C:\Users\Bogdan\Desktop\123.txt - Notepad++' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="704b48af-4cc6-499e-96e4-9bfe8b05df65" CvElementArea="306, 94, 127, 29" CvTextArea="333, 103, 46, 13" CvTextArgument="123.txt" CvType="Button" DesignTimeRectangle="309, 94, 124, 28" ElementType="TabPage" FuzzySelectorArgument="&lt;wnd cls='SysTabControl32' title='Tab' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;ctrl name='Tab' role='page tab list' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='123.txt' role='page tab' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='123.txt' /&gt;" Guid="02007f54-d472-4415-8eaf-eb8b728be0d3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6b1b23cd63366964c4305c6badd6f0e6.png" xmlns="">0d3vekT0bXU-LUl3E0vRO1g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

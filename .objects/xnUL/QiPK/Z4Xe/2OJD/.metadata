@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Limited Adventure",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "2OJDlsySqE-s6nHSv6xxnw",
+  "Reference": "CMCEUwyRdEur3HS62FoHCg/2OJDlsySqE-s6nHSv6xxnw",
+  "ParentRef": "CMCEUwyRdEur3HS62FoHCg/Z4XeILKYG02IzwYhjhuuAw",
+  "Created": "2025-08-03T11:33:05.930414Z",
+  "Updated": "2025-08-03T11:33:05.930414Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

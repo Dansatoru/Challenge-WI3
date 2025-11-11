@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Please review the vendo…",
+  "Type": "Element",
+  "Id": "UrGeCTXE9EyVPxqlzxstpQ",
+  "Reference": "CMCEUwyRdEur3HS62FoHCg/UrGeCTXE9EyVPxqlzxstpQ",
+  "ParentRef": "CMCEUwyRdEur3HS62FoHCg/Hf4wpCizZkWJwMvk2ClMHA",
+  "Created": "2025-08-07T23:07:11.1229326Z",
+  "Updated": "2025-08-07T23:07:11.1229326Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

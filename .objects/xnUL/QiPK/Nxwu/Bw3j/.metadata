@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Button 'Download this document'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Bw3jVzyqCEilFZfnKSv6XQ",
+  "Reference": "CMCEUwyRdEur3HS62FoHCg/Bw3jVzyqCEilFZfnKSv6XQ",
+  "ParentRef": "CMCEUwyRdEur3HS62FoHCg/NxwuXgJg20qHVU2qTs4OIg",
+  "Created": "2025-08-02T12:15:44.6356052Z",
+  "Updated": "2025-08-02T12:15:44.6356052Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

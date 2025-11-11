@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_aglYjANrkaJvTjJJ3akfA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/vendors/search" CVScreenId="99b7f80e-be90-4c13-9d5d-64db1e1b3fbc" CvElementArea="342, 625, 610, 46" CvType="InputBox" DesignTimeRectangle="344, 628, 606, 42" ElementType="InputBox" FuzzyAccuracy="0.25" FuzzySelectorArgument="&lt;webctrl id='vendorName' tag='INPUT' type='text' class='form-control' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="a2738e17-8f41-4587-a6ce-b2024549c419" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Vendors - Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="99b7f80e-be90-4c13-9d5d-64db1e1b3fbc" CvElementArea="342, 687, 91, 45" CvTextArea="357, 700, 58, 17" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="344, 689, 87, 42" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='buttonSearch' tag='BUTTON' type='button' class='btn btn-primary' aaname='Search' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Search' /&gt;" Guid="ce31fda4-0221-4db5-bc72-449e18f1e455" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="819476777137ff529f5a828419e64be6.png" xmlns="">0luz2xk2JbUCDCd-aEOriXQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

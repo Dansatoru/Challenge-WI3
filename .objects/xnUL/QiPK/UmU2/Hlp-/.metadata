@@ -1,0 +1,14 @@
+﻿{
+  "Name": "No vendor based on the …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Hlp-asMvEkmhgxmrNoaV-g",
+  "Reference": "CMCEUwyRdEur3HS62FoHCg/Hlp-asMvEkmhgxmrNoaV-g",
+  "ParentRef": "CMCEUwyRdEur3HS62FoHCg/UmU2jfuzlk27BK6aCEAdAg",
+  "Created": "2025-08-06T18:00:58.040654Z",
+  "Updated": "2025-08-06T18:00:58.040654Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

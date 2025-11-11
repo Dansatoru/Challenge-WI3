@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Invoice ID 751067 Date…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "9_phNYCyMkuY2Z1sOS2h8Q",
+  "Reference": "CMCEUwyRdEur3HS62FoHCg/9_phNYCyMkuY2Z1sOS2h8Q",
+  "ParentRef": "CMCEUwyRdEur3HS62FoHCg/UmU2jfuzlk27BK6aCEAdAg",
+  "Created": "2025-08-01T20:50:42.8012178Z",
+  "Updated": "2025-08-01T20:50:42.8012178Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

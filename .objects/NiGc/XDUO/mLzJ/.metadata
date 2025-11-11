@@ -1,0 +1,13 @@
+﻿{
+  "Name": "CUsersBogdanDesktop123.txt - Notepad++",
+  "Type": "Screen",
+  "Id": "mLzJ8OXO3Ei07qCE-kOBcA",
+  "Reference": "CMCEUwyRdEur3HS62FoHCg/mLzJ8OXO3Ei07qCE-kOBcA",
+  "ParentRef": "CMCEUwyRdEur3HS62FoHCg/XDUOKaPPzkGljEiqY6SIyg",
+  "Created": "2025-08-07T21:09:59.6479744Z",
+  "Updated": "2025-08-07T21:09:59.6479744Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

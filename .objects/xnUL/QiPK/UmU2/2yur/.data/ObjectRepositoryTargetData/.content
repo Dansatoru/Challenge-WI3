@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="q3DhR7igukaVKY_nqE8xRg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/hubfs/WI3%20-%20Process%20Vendor%20Invoices.pdf" DesignTimeRectangle="9, 81, 549, 763" FullSelectorArgument="&lt;webctrl tag='BODY' /&gt;" Guid="f9e75ad1-1173-4928-abed-59450ad45a9f" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="80aec6d3f033a071a7cd10cb49d3c895.png" xmlns="">0Z78SFuPw50GNvqOVZNaD7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

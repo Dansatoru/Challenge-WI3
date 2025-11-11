@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="W3UfHqNWMEmFi8ucxCxiYA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106992455" CVScreenId="b20bfb51-3222-463b-9680-3a90b3c1a8a6" CvElementArea="380, 709, 236, 45" CvTextArea="422, 722, 177, 17" CvTextArgument="Download PDF Invoice" CvType="Button" DesignTimeRectangle="383, 712, 232, 42" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname=' Download PDF Invoice' tag='BUTTON' /&gt;" Guid="e7aef003-4e97-4e89-b344-c36ac96fab68" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="383, 575, 466, 100" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' aaname='                              751067                              2017-12-05                              198893                              RON                         ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Invoice ID: 751067&amp;#xA;DateDate: 2017-12-05&amp;#xA;Amount: 198893&amp;#xA;Currency: RON' /&gt;" Guid="3b503587-2a6f-4354-8a75-96a76b615e79" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f85a12ed412e0b2bbf8eb34ee2335e23.png" xmlns="">00017BQ0dVESTj_lsbUuUOQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wT08RUjgJU2m3R5_54S9mA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106992455" CVScreenId="d2812ebd-36ac-4618-85c2-841876f225fb" CvElementArea="884, 710, 200, 46" CvTextArea="924, 724, 142, 20" CvTextArgument="Update Work Item" CvType="Button" DesignTimeRectangle="887, 712, 195, 42" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname=' Update Work Item' tag='BUTTON' /&gt;" Guid="c0354e94-6b13-4643-9450-246b0de06955" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d2812ebd-36ac-4618-85c2-841876f225fb" CvElementArea="380, 709, 236, 46" CvTextArea="422, 722, 177, 17" CvTextArgument="Download PDF Invoice" CvType="Button" DesignTimeRectangle="383, 712, 232, 42" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname=' Download PDF Invoice' tag='BUTTON' type='button' class='btn btn-primary' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Download PDF Invoice' /&gt;" Guid="e9d96d43-1bff-40b8-86ee-2d6d632d7445" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ab855387220a4d19b33f657b4a9c7ee8.png" xmlns="">0vEjdvMSojEWV9nJ7nk_g0w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

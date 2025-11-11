@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="88wbePs2ZUijAstNneofVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/vendors/search" CVScreenId="6b5e3196-8501-47ff-adf3-d37463b286dd" CvElementArea="342, 687, 91, 45" CvTextArea="357, 700, 58, 17" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="344, 689, 87, 42" ElementType="Button" FullSelectorArgument="&lt;webctrl id='buttonSearch' tag='BUTTON' /&gt;" Guid="69b5a51f-6f37-46dc-897d-266bbd8eb36c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Vendors - Search' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6b5e3196-8501-47ff-adf3-d37463b286dd" CvElementArea="433, 686, 187, 46" CvTextArea="451, 700, 151, 20" CvTextArgument="Display All Vendors" CvType="Button" DesignTimeRectangle="436, 689, 182, 42" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='buttonShowAll' tag='BUTTON' type='button' class='btn btn-secondary' aaname='Display All Vendors' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Display All Vendors' /&gt;" Guid="93a0c6af-66e8-4805-8109-07857b793a60" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1e19274d8eab6d3a63decd046a7ea8d0.png" xmlns="">07U9MUAMJzkanPoT0rYcHmQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

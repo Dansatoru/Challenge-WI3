@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="80nQ0Z2yjUGZYImJmxZjyw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/vendors/add" CVScreenId="a5972b38-569f-49fe-9941-3b8d0a87c723" CvElementArea="332, 780, 136, 46" CvTextArea="347, 794, 105, 17" CvTextArgument="Save Vendor" CvType="Button" DesignTimeRectangle="334, 783, 133, 42" ElementType="Button" FullSelectorArgument="&lt;webctrl id='addVendor' tag='BUTTON' /&gt;" Guid="ede9f161-5b86-4414-b377-1e8050f2a9b8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Add Vendor' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a5972b38-569f-49fe-9941-3b8d0a87c723" CvTextArea="332, 941, 265, 21" CvTextArgument="Copyright © 2025 ACME Systems" CvType="Text" DesignTimeRectangle="334, 939, 1250, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='P' class='' aaname='Copyright © 2025 ACME Systems' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Copyright © 2025 ACME Systems' /&gt;" Guid="224ec121-7d32-4128-9748-2825176cd128" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3271da91f5c575ad115897b3a3f29bd2.png" xmlns="">0Nbe7pblb00SEDlRBi3qwVg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

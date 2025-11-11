@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Save Vendor",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "ZLif5hW1PEuJhcGym66KGg",
+  "Reference": "CMCEUwyRdEur3HS62FoHCg/ZLif5hW1PEuJhcGym66KGg",
+  "ParentRef": "CMCEUwyRdEur3HS62FoHCg/UmU2jfuzlk27BK6aCEAdAg",
+  "Created": "2025-08-06T19:01:32.3041761Z",
+  "Updated": "2025-08-06T19:01:32.3041761Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

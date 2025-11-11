@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Scintilla",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "eW1e2qssTEqjHAiiuhqDSQ",
+  "Reference": "CMCEUwyRdEur3HS62FoHCg/eW1e2qssTEqjHAiiuhqDSQ",
+  "ParentRef": "CMCEUwyRdEur3HS62FoHCg/mLzJ8OXO3Ei07qCE-kOBcA",
+  "Created": "2025-08-07T21:10:58.9565821Z",
+  "Updated": "2025-08-07T21:10:58.9565821Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

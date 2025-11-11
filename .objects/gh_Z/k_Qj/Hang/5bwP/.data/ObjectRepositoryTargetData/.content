@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="d6GUK_2dJU2AnEEyjJD2mQ" Reference="CMCEUwyRdEur3HS62FoHCg/5bwP43mU20uVutbLHj5bjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="bfe2722a-5354-4167-8f05-2ba21e3e0575" CvType="AnyWordGroup" DesignTimeRectangle="887, 226, 154, 14" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;wnd omit:aaname='Document Pane' omit:cls='AVL_AVView' omit:title='AVScrolledPageView' /&gt;&lt;wnd omit:cls='AVL_AVView' omit:title='AVPageView' /&gt;&lt;ctrl omit:name='Vendor: {0}' role='text' /&gt;&quot;, VendorCopy)]" FuzzySelectorArgument="&lt;wnd aaname='Document Pane' cls='AVL_AVView' title='AVScrolledPageView' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;wnd cls='AVL_AVView' title='AVPageView' matching:title='fuzzy' fuzzylevel:title='0.0' /&gt;&lt;ctrl role='text' automationid='' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='' /&gt;" Guid="a163541a-633a-4b77-acad-b1380f819288" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='acrobat.exe' cls='AcrobatSDIWindow' title='Invoice-751067.pdf - Adobe Acrobat Reader (64-bit)' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1f489b9309d17d83db56f6ee004ce3f0.png" xmlns="">0ujm6dcB7l0-PgOa6ALULjA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="VendorCopy" />
+    </scg:List>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

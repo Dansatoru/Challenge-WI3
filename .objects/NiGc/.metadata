@@ -1,0 +1,12 @@
+﻿{
+  "Name": "CUsersBogdanDesktop123.txt - Notepad++",
+  "Type": "App",
+  "Id": "NiGcNM-KYEeCo7SAApbfzg",
+  "Reference": "CMCEUwyRdEur3HS62FoHCg/NiGcNM-KYEeCo7SAApbfzg",
+  "Created": "2025-08-07T21:09:59.5796275Z",
+  "Updated": "2025-08-07T21:09:59.5796275Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

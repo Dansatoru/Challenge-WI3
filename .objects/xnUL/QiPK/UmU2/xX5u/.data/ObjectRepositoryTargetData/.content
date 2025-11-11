@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AkvRIz1_ckOU5pBMNHSr4A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/106992454" CVScreenId="18b192c3-1d85-478b-8ab7-f371f469c8dc" DesignTimeRectangle="341, 9, 321, 52" ElementType="TabPage" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Work Items - Google Chrome' role='pane' /&gt;&lt;ctrl name='Invoice-935877.pdf' role='page tab' /&gt;" FuzzyAccuracy="0.1" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Work Items - Google Chrome' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Invoice-935877.pdf' role='page tab' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="1d89703e-a54a-44ce-9fc4-22e0982091d2" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Work Items - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="18b192c3-1d85-478b-8ab7-f371f469c8dc" CvElementArea="55, 15, 298, 43" CvType="Button" DesignTimeRectangle="44, 9, 320, 52" ElementType="TabPage" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Work Items - Google Chrome' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='ACME System 1 - Work Items' role='page tab' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='ACME System 1 - Work Items' /&gt;" Guid="d717cf30-bdc8-4ac1-aa39-82377810ac0d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b3f532dcb7de653d12195ab5a8e695e6.png" xmlns="">0Tovql7Q7u0SxmiuAYMUAoQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
